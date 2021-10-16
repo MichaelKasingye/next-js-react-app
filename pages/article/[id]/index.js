@@ -4,7 +4,7 @@ import {useRouter} from 'next/router'
 function Article({articles}) {
     // const router = useRouter();
 // const {id} = router.query
-console.log(articles);
+// console.log(articles);
 
 return (
     <div>
